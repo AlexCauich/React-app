@@ -13,13 +13,7 @@
             "responsible": "Itzel",
             "description": "lorem impsum",
             "priority": "medium"
-        },
-        {
-            "id": 3,
-            "title": "Task 3",
-            "responsible": "Elizabeth",
-            "description": "lorem impsum",
-            "priority": "high"
         }
+        
     ]
 }
